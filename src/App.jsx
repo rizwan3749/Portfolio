@@ -229,8 +229,8 @@ function App() {
           <div className="bg-white w-[90vw] smd:w-[60vw] min-h-[30rem] smd: m-auto mt-20 rounded-3xl">
             <div className="flex justify-between h-[30%] py-10 px-8 bg ">
               <div className="">
-                <div className="text-3xl font-semibold">Crypto-256</div>
-                <div className="text-xl">A crypto wallet web app</div>
+                <div className="text-3xl font-semibold">Card-Generater</div>
+                <div className="text-xl">A card generater web app</div>
               </div>
               <a href="/" target="_blank">
                 <div className="px-7 py-5 border-2 hover:border-black cursor-none rounded-full">
@@ -243,6 +243,7 @@ function App() {
                 <div className="w-full smd:w-fit  smd:h-fit rounded-lg shadow-2xl ">
                   <img
                     width={500}
+                    height={600}
                     className="rounded-xl "
                     src="Img2.png"
                     alt=""
@@ -251,15 +252,15 @@ function App() {
               </div>
               <div className="w-[98%] mt-8 xl:mt-0 xl:w-[45%] px-4 overflow-y-hidden m-auto xl:m-0 -translate-y-4">
                 <div>
-                  <h2 className="text-3xl font-semibold mb-2">Crypto Wallet</h2>
+                  <h2 className="text-3xl font-semibold mb-2">Card-Generater</h2>
 
                   <p className="text-justify truncate smd:text-wrap">
-                    Crypto-256 is a crypto wallet web app built on the MERN
+                    Card-Generater is a auto card generater web app built on the MERN
                     stack, offering a secure platform to store and manage your
-                    cryptocurrency assets. With robust encryption and intuitive
-                    user interface, Crypto-256 provides a seamless experience
+                    cards. With robust encryption and intuitive
+                    user interface, Card-Generater provides a seamless experience
                     for users to securely store, send, and receive various
-                    cryptocurrencies.
+                    cards designs.
                   </p>
 
                   <div className="flex flex-wrap mt-4 overflow-y-hidden">
