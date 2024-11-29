@@ -232,7 +232,7 @@ function App() {
                 <div className="text-3xl font-semibold">Card-Generater</div>
                 <div className="text-xl">A card generater web app</div>
               </div>
-              <a href="/" target="_blank">
+              <a href="https://card-generator-chi.vercel.app/" target="_blank">
                 <div className="px-7 py-5 border-2 hover:border-black cursor-none rounded-full">
                   ↗
                 </div>
